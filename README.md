@@ -1,6 +1,6 @@
 # YelpCamp
 ## Descrição do Projeto
-YelpCamp é o projeto final do curso 'The Web Developer Bootcamp 2021' ministrado pelo excelente professor [Colt Steele](https://github.com/Colt)
+YelpCamp é o projeto final do curso '[The Web Developer Bootcamp 2021](https://www.udemy.com/share/101W92AkAcdl9RQ3o=/)' ministrado pelo excelente instrutor [Colt Steele](https://github.com/Colt)
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
